@@ -6,7 +6,7 @@
 
 main:
   - title: "Resume"
-    url: /publications/
+    url: /files/ResumeShreyas_DS.pdf
 
   - title: "Projects"
     url: /talks/    
